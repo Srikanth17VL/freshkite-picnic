@@ -9,6 +9,6 @@ and have fun.
 
 # Schedule
 
-1. Meeting a common point - 6 AM
-2. Bus journey start      - 7 AM
-3. Lunch time             - 12 Noon
+1. Meeting a common point - 7 AM
+2. Bus journey start      - 8 AM
+3. Lunch time             - 1 Noon
